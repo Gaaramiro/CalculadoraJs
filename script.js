@@ -27,6 +27,3 @@ function equal(){
 
 
 
-switch(value){
-    case '+' :
-}
